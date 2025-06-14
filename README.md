@@ -7,7 +7,7 @@ Tener Docker instalado y funcionando en tu máquina.
 (Opcional) Tener git instalado para clonar este repositorio.
 
 📦 Clonar el proyecto
-git clone https://github.com/tu-usuario/docker-index.git
+git clone https://github.com/JoseLuisGalvis/docker-index
 cd docker-index
 
 🛠️ Construir la imagen Docker
